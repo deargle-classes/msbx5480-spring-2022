@@ -2,6 +2,9 @@ exclude:
   - node_modules
   - script
 
+
+baseurl: "/msbx5480-spring-2022"
+
 sass:
   style: :compressed
 
