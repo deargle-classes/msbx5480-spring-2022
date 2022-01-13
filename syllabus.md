@@ -7,7 +7,7 @@ course_name: Information Security Management
 coursenum:
  - MSBX-5480-001
  - MSBX-5480-574
-slack: https://infosecmanagementf22.slack.com
+slack: https://infosecmanagements22.slack.com
 layout: page
 ---
 
